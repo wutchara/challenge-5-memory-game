@@ -1,3 +1,9 @@
+# this is challenge coding for Memory Game => [Reference](https://github.com/zero-to-mastery/coding_challenge-14)
+
+[Sorting algorithm](https://bost.ocks.org/mike/shuffle/)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
