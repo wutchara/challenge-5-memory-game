@@ -1,5 +1,16 @@
 # this is challenge coding for Memory Game => [Reference](https://github.com/zero-to-mastery/coding_challenge-14)
 
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wutchara/challenge-5-memory-game?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wutchara/challenge-5-memory-game?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wutchara/challenge-5-memory-game?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/wutchara/challenge-5-memory-game?color=56BEB8">
+  <img alt="Github issues" src="https://img.shields.io/github/issues/wutchara/challenge-5-memory-game?color=56BEB8" />
+  <img alt="Github forks" src="https://img.shields.io/github/forks/wutchara/challenge-5-memory-game?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/wutchara/challenge-5-memory-game?color=56BEB8" />
+</p>
+<br>
+
 [Sorting algorithm](https://bost.ocks.org/mike/shuffle/)
 
 ---
